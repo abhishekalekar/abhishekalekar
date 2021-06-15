@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Alekar</h1>
 <h3 align="center">A passionate Full Stack Developer / Software Developer</h3>
-(https://github.com/abhishekalekar/abhishekalekar/blob/main/profile-image.jpg)
+
 
 I have more than 10 years experience in software development. I'm currently working as a Salesforce developer. I really like to learn new technologies.
 

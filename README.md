@@ -2,7 +2,7 @@
 #### Full Stack Developer | Software Developer
 ![Full Stack Developer | Software Developer](https://github.com/abhishekalekar/abhishekalekar/blob/main/profile-image.jpg)
 
-I' Abhishek Alekar from Hamilton, New Zealand. I have more than 10 years experience in software development. I am currently working as Salesforce developer. I really like to learn new technologies. 
+I' Abhishek Alekar from Hamilton, New Zealand. I have more than 10 years experience in software development. I'm currently working as a Salesforce developer. I really like to learn new technologies. 
 
 
 

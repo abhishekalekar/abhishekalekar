@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Alekar</h1>
 <h3 align="center">A passionate Full Stack Developer / Software Developer</h3>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 
 I have more than 10 years experience in software development. I'm currently working as a Salesforce developer. I really like to learn new technologies.
@@ -15,8 +16,13 @@ I have more than 10 years experience in software development. I'm currently work
 
 - 📫 How to reach me **abhishekalekar@xtra.co.nz**
 
+
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abhishekalekar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nz.linkedin.com/in/abhishekalekar?trk=profile-badge">Abhishek Alekar</a></div>
+              
 <a href="https://dev.to/abhishekalekar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abhishekalekar" height="30" width="40" /></a>
 <a href="https://twitter.com/abhishekalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishekalekar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishekalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekalekar" height="30" width="40" /></a>

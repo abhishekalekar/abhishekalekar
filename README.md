@@ -14,7 +14,7 @@ I have more than 10 years experience in software development. I'm currently work
 
 - 👨‍💻 All of my projects are available at [abhishekalekar.github.io](abhishekalekar.github.io)
 
-- 📫 How to reach me **abhishekalekar@xtra.co.nz**
+- 📫 How to reach me **abhishekalekar@ymail.com**
 
 
 
